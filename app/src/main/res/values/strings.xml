@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LoginRegister</string>
+    <string name="welcome">WEL-COME</string>
+    <string name="heading_name">Name</string>
+    <string name="hintName">Enter your name</string>
+    <string name="heading_email">Email</string>
+    <string name="hintEmail">enter email-Id</string>
+    <string name="heading_password">Password</string>
+    <string name="hintPassword">enter password</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnRegister">Register</string>
+    <string name="new_user">Not a member ? Sign Up</string>
+    <string name="heading_con_password">Confirm Password</string>
+</resources>
